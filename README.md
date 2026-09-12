@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m a Frontend Developer experienced in building web applications using React, TypeScript, and TailwindCSS. Throughout my career, I've focused on creating clean, dynamic, and accessible interfaces, always prioritizing user experience and code maintainability. I have solid expertise in state management with RTK Query, responsive design, and developing reusable components that adapt to various workflows. My approach centers on writing clean, functional, and scalable code.
+I'm Robert Herrera, a Full-Stack Developer with a strong specialization in frontend engineering. I build interfaces with React, TypeScript, and TailwindCSS, focusing on clean, accessible, and maintainable UI — solid state management with Redux Toolkit and RTK Query, responsive design, and reusable components that scale across complex workflows.
+
+Beyond the UI, I work across the full stack on production systems: building business logic with NestJS, Prisma, and PostgreSQL, integrating payment gateways and financing flows, and handling the kind of edge cases that come with real financial data — multi-currency handling, reconciliation, and third-party API integrations. That range lets me own a feature end-to-end, from the database schema to the pixel on screen.
+
+My approach is the same on either side of the stack: write functional, well-typed, scalable code, and prioritize the person who has to read it next — whether that's a user or another developer.
 
 
 ## 🌐 Socials:
